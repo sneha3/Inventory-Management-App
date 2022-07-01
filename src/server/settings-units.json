@@ -1,0 +1,175 @@
+{
+  "units": [
+    {
+      "name": "Chassis",
+      "shortname": "Chassis",
+      "icon": "../../static/images/microchip-solid.svg",
+      "iconName": "Microchip",
+      "properties": {
+        "label": "vendor",
+        "propertiesDefault": "intel",
+        "propertiesName": "checked",
+        "required": "checked"
+      },
+      "parts": {
+        "partName": "",
+        "nameRequired": "",
+        "partDefault": ""
+      },
+      "comment": "Working Product !",
+      "id": 1
+    },
+    {
+      "name": "Hard Disk 1",
+      "shortname": "Disk",
+      "icon": "../../static/images/hard-drive-solid.svg",
+      "iconName": "Hard Drive",
+      "properties": {
+        "label": "model",
+        "propertiesDefault": "S21",
+        "propertiesName": "checked",
+        "required": "checked"
+      },
+      "parts": {
+        "partName": "",
+        "nameRequired": "",
+        "partDefault": ""
+      },
+      "comment": "1 TB Storage filled !",
+      "id": 2
+    },
+    {
+      "name": "hello",
+      "shortname": "laptop",
+      "icon": "../../static/images/laptop-solid.svg",
+      "iconName": "Laptop",
+      "properties": {
+        "label": "",
+        "propertiesDefault": "",
+        "propertiesName": "",
+        "required": "checked"
+      },
+      "parts": {
+        "partName": "screen",
+        "nameRequired": "checked",
+        "partDefault": "samsung"
+      },
+      "comment": "Laptop working fine.",
+      "id": 3
+    },
+    {
+      "name": "1111111",
+      "shortname": "sd card",
+      "icon": "../../static/images/sd-card-solid.svg",
+      "iconName": "Sd Card",
+      "properties": {
+        "label": "Model",
+        "propertiesDefault": "10th Gen",
+        "propertiesName": "checked",
+        "required": "checked"
+      },
+      "parts": {
+        "partName": "Chip",
+        "nameRequired": "",
+        "partDefault": "India"
+      },
+      "comment": "Good",
+      "id": 4
+    },
+    {
+      "name": "awb24b2a42",
+      "shortname": "hard drive",
+      "icon": "../../static/images/hard-drive-solid.svg",
+      "iconName": "Hard Drive",
+      "properties": {
+        "label": "Brand",
+        "propertiesDefault": "SandDisk",
+        "propertiesName": "checked",
+        "required": "checked"
+      },
+      "parts": {
+        "partName": "",
+        "nameRequired": "",
+        "partDefault": ""
+      },
+      "comment": "Working !",
+      "id": 5
+    },
+    {
+      "name": "Cable",
+      "shortname": "wire",
+      "icon": "../../static/images/microchip-solid.svg",
+      "iconName": "Microchip",
+      "properties": {
+        "label": "",
+        "propertiesDefault": "",
+        "propertiesName": "",
+        "required": ""
+      },
+      "parts": {
+        "partName": "",
+        "nameRequired": "",
+        "partDefault": ""
+      },
+      "comment": "2 feet long wire being used. ",
+      "id": 6
+    },
+    {
+      "name": "fdgfff",
+      "shortname": "mobile",
+      "icon": "../../static/images/mobile-solid.svg",
+      "iconName": "Mobile",
+      "properties": {
+        "label": "Brand",
+        "propertiesDefault": "OnePlus",
+        "propertiesName": "",
+        "required": ""
+      },
+      "parts": {
+        "partName": "",
+        "nameRequired": "",
+        "partDefault": ""
+      },
+      "comment": "Durable",
+      "id": 7
+    },
+    {
+      "name": "keyboard",
+      "shortname": "",
+      "icon": "../../static/images/keyboard-solid.svg",
+      "iconName": "Keyboard",
+      "properties": {
+        "label": "",
+        "propertiesDefault": "",
+        "propertiesName": "",
+        "required": ""
+      },
+      "parts": {
+        "partName": "keys",
+        "nameRequired": "checked",
+        "partDefault": "logitech"
+      },
+      "comment": "Keys Working Fine. ",
+      "id": 8
+    },
+    {
+      "name": "buds",
+      "shortname": "",
+      "icon": "../../static/images/mobile-solid.svg",
+      "iconName": "Mobile",
+      "properties": {
+        "label": "vendor",
+        "propertiesDefault": "delhi",
+        "propertiesName": "checked",
+        "required": "checked"
+      },
+      "parts": {
+        "partName": "microphone",
+        "nameRequired": "",
+        "partDefault": "samsung"
+      },
+      "comment": "great",
+      "id": 9
+    }
+  ]
+}
